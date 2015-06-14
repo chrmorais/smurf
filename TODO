@@ -1,0 +1,7 @@
+TODO, FIX, IMPROVEMENTS, ...
+
+- Build a decent text input, with basic movement facilities and that
+permits to start with some typed text. This is usefull to enter names
+and options in user input. When the user hit esc or UP and DOWN, exit.
+
+
